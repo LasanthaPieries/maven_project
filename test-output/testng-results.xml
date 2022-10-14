@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10342" started-at="2022-10-15T03:29:12 IST" finished-at="2022-10-15T03:29:23 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10342" started-at="2022-10-15T03:29:12 IST" finished-at="2022-10-15T03:29:23 IST">
+      <class name="tests.TestApp">
+        <test-method status="PASS" signature="ResponseProductId()[pri:0, instance:tests.TestApp@7ce6a65d]" name="ResponseProductId" duration-ms="8" started-at="2022-10-15T03:29:12 IST" finished-at="2022-10-15T03:29:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseProductId -->
+        <test-method status="PASS" signature="ResponseProductIdFalse()[pri:0, instance:tests.TestApp@7ce6a65d]" name="ResponseProductIdFalse" duration-ms="2" started-at="2022-10-15T03:29:12 IST" finished-at="2022-10-15T03:29:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseProductIdFalse -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:tests.TestApp@7ce6a65d]" name="Test1" duration-ms="10291" started-at="2022-10-15T03:29:12 IST" finished-at="2022-10-15T03:29:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- tests.TestApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
